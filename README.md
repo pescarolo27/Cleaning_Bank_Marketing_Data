@@ -6,6 +6,4 @@
 
 They have supplied you with a csv file called `"bank_marketing.csv"`, which you will need to clean, reformat, and split the data, saving three final csv files.
 
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project.
+This project was done in January, 2025. Machine learning was not applied in this project.
